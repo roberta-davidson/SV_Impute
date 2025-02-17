@@ -11,3 +11,4 @@ Locations of files on NCI cluster:
 
 Current working directory of the project within the te53 project directory: \
 `/g/data/te53/sv_imputation`
+In this directory you will find `dir_map.md` that explains all the files and directories.
