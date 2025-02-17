@@ -9,5 +9,5 @@ Relevant links: \
 
 Locations of files on NCI cluster:
 
-Current working directory of the project is my personal user directory within the te53 project directory: \
-`/g/data/te53/rd8238`
+Current working directory of the project within the te53 project directory: \
+`/g/data/te53/sv_imputation`
